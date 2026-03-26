@@ -1,0 +1,22 @@
+{
+  "name": "expo-gdal-pdfium-example",
+  "version": "1.0.0",
+  "private": true,
+  "main": "AppEntry.ts",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo run:ios",
+    "android": "expo run:android"
+  },
+  "dependencies": {
+    "expo": "~53.0.27",
+    "expo-asset": "~11.1.5",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.6"
+  },
+  "devDependencies": {
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  }
+}
