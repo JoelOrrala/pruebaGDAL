@@ -2,7 +2,7 @@
   "name": "expo-gdal-pdfium-example",
   "version": "1.0.0",
   "private": true,
-  "main": "AppEntry.ts",
+  "main": "index.ts",
   "scripts": {
     "start": "expo start",
     "ios": "expo run:ios",
