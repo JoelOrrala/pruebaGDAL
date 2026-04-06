@@ -36,13 +36,15 @@ This repository includes an example Expo app for testing the module locally.
 ```bash
 cd example
 npm install
+```
 
 Then run on a device or simulator:
 
+```bash
 npx expo run:ios
 # or
 npx expo run:android
-
+```
 ## Prerequisites
 
 This module requires the GDAL native libraries for both platforms:
